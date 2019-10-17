@@ -2,12 +2,7 @@
 
 
   {
-    "Id":1,
-    "Name": "Linen skirt",
-    "ShortDescription": "Best quality linen skirt",
-    "LongDescription":"Best quality linen skirt",
-    "Catagory": "1",
-    "Price": 1890,
+    
     "Quantity": 50,
     "Active": true,
     "ScaledImage":"https://i.etsystatic.com/13074965/r/il/ad6f73/1300707053/il_fullxfull.1300707053_hgsg.jpg",
