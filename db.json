@@ -169,56 +169,9 @@
       "ScaledImage": "https://i.ebayimg.com/images/g/x-YAAOSw5JJZj8Ez/s-l1600.jpg",
       "FullImage": "https://i.ebayimg.com/images/g/x-YAAOSw5JJZj8Ez/s-l1600.jpg"
   },
+ 
   {
-      "Id":15,
-      "Name": "Short denim jean",
-      "ShortDescription": " Slim Short Denim Jean Pants Casual Jeans Trousers Thigh Ripped Holes Shorts ",
-      "LongDescription": " Slim Short Denim Jean Pants Casual Jeans Trousers Thigh Ripped Holes Shorts",
-      "Catagory": "2",
-      "Price": 2500,
-      "Quantity": 50,
-      "Active": true,
-      "ScaledImage": "https://i.ebayimg.com/images/g/N5YAAOSwf05a3tu~/s-l1600.jpg",
-      "FullImage": "https://i.ebayimg.com/images/g/N5YAAOSwf05a3tu~/s-l1600.jpg"
-  },
-  {
-        "Id":16,
-        "Name": "Slim fit denim pants",
-        "ShortDescription": " Stretchy Slim Fit Denim Pants Casual Long Straight Trousers Skinny Jeans",
-        "LongDescription": " Stretchy Slim Fit Denim Pants Casual Long Straight Trousers Skinny Jeans",
-        "Catagory": "2",
-        "Price": 2500,
-        "Quantity": 50,
-        "Active": true,
-        "ScaledImage": "https://i.ebayimg.com/images/g/jJsAAOSwq61anNoc/s-l1600.jpg",
-        "FullImage": "https://i.ebayimg.com/images/g/jJsAAOSwq61anNoc/s-l1600.jpg"
-  },
-  {
-        "Id":17,
-        "Name": "Casual pencil denim",
-        "ShortDescription": "  Casual Pencil Denim Pants Slim Fit Straight-Leg Jeans Leisure Trousers Blue",
-        "LongDescription": "  Casual Pencil Denim Pants Slim Fit Straight-Leg Jeans Leisure Trousers Blue",
-        "Catagory": "2",
-        "Price": 2350,
-        "Quantity": 50,
-        "Active": true,
-        "ScaledImage": "https://i.ebayimg.com/images/g/XQ4AAOSw9-Va0aFk/s-l500.png",
-        "FullImage": "https://i.ebayimg.com/images/g/XQ4AAOSw9-Va0aFk/s-l500.png"
-  },
-  {
-        "Id":18,
-        "Name": "Business stretch trousers",
-        "ShortDescription": "Men Pants Casual Business Stretch trousers regular Straight Pant",
-        "LongDescription": " Men Pants Casual Business Stretch trousers regular Straight Pant",
-        "Catagory": "2",
-        "Price": 1800,
-        "Quantity": 50,
-        "Active": true,
-        "ScaledImage": "https://i.ebayimg.com/images/g/3GAAAOSwHYpaOIUP/s-l1600.jpg",
-        "FullImage": "https://i.ebayimg.com/images/g/3GAAAOSwHYpaOIUP/s-l1600.jpg"
-  },
-  {
-        "Id":19,
+        "Id":15,
         "Name": "Long Sleeve shirt",
         "ShortDescription": "Luxury Fashion Men's Slim Fit Shirt Long Sleeve Dress Shirts Casual Shirt Tops",
         "LongDescription": "Luxury Fashion Men's Slim Fit Shirt Long Sleeve Dress Shirts Casual Shirt Tops",
@@ -230,7 +183,7 @@
         "FullImage": "https://i.ebayimg.com/images/g/qEAAAOSw4DJYms0C/s-l1600.jpg"
   },
   {
-        "Id":20,
+        "Id":16,
         "Name": "Casual V-Neck shirt",
         "ShortDescription": "Fashion Men's Casual V-Neck Long Sleeve Shirts Slim Fit T-Shirt Tops Blouse Tee",
         "LongDescription": "Fashion Men's Casual V-Neck Long Sleeve Shirts Slim Fit T-Shirt Tops Blouse Tee",
@@ -242,7 +195,7 @@
         "FullImage": "https://i.ebayimg.com/images/g/o6MAAOSw4PxZ~~8T/s-l1600.jpg"
   },
   {
-    "Id": 21,
+    "Id": 17,
     "Name": "Girls sweat shirt",
     "ShortDescription": "Girls sweat shirt with rainbow colored stripes",
     "LongDescription": "Girls sweat shirt with rainbow colored stripes",
@@ -255,7 +208,7 @@
   }
 ,
   {
-    "Id": 22,
+    "Id": 18,
     "Name": "Boys sweat shirt",
     "ShortDescription": "Blue and black color high quality sweatshirt for boys",
     "LongDescription": "Blue and black color high quality sweatshirt for boys",
